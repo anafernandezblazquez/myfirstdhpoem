@@ -1,11 +1,11 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+title:               Mi primer poema de Humanidades Digitales.
+tagline:             'el poema de los poemas'
+description:         'Defensa de la Alegría, de Mario Benedetti.'
 url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+baseurl:             '/myfirstdhpoem'
 
 # About/contact
 author:
